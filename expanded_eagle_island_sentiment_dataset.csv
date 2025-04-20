@@ -1,0 +1,61 @@
+ID,Source,Role,Date,Age Group,Program Name,Feedback Text,Sentiment Label
+1,Social Media,Camper,2022-06-28,10-12,Arts & Crafts,Best summer ever! I learned to canoe and met awesome friends.,Positive
+2,Camper Letter,Staff,2022-08-27,8-10,Nature Exploration,I want to come back every year!,Positive
+3,Parent Email,Parent,2022-07-08,16-18,Arts & Crafts,"The schedule was okay, not too packed.",Neutral
+4,Social Media,Staff,2022-08-03,8-10,Hiking Adventures,"The location is nice, but I wish we had more options.",Neutral
+5,Parent Email,Staff,2022-07-29,13-15,Sailing Program,Best summer ever! I learned to canoe and met awesome friends.,Positive
+6,Social Media,Staff,2022-07-02,8-10,Hiking Adventures,"The location is nice, but I wish we had more options.",Neutral
+7,Camper Letter,Camper,2022-08-26,10-12,Hiking Adventures,The counselors were so kind and supportive.,Positive
+8,Survey,Camper,2022-07-05,13-15,Nature Exploration,"The schedule was okay, not too packed.",Neutral
+9,Survey,Parent,2022-06-20,10-12,Nature Exploration,"Counselors were great, but too many rules.",Mixed
+10,Parent Email,Camper,2022-07-16,13-15,Hiking Adventures,Too many bugs in the woods.,Negative
+11,Parent Email,Staff,2022-08-11,10-12,Leadership Circle,Best summer ever! I learned to canoe and met awesome friends.,Positive
+12,Survey,Camper,2022-06-05,16-18,Sailing Program,"It was fine, but I missed home a lot.",Neutral
+13,Camper Letter,Staff,2022-07-05,10-12,Hiking Adventures,"The location is nice, but I wish we had more options.",Neutral
+14,Survey,Parent,2022-07-28,10-12,Leadership Circle,The counselors were so kind and supportive.,Positive
+15,Parent Email,Staff,2022-06-08,13-15,Arts & Crafts,"Counselors were great, but too many rules.",Mixed
+16,Camper Letter,Staff,2022-08-25,10-12,Sailing Program,The cabins were too cold at night.,Negative
+17,Social Media,Parent,2022-07-07,10-12,Sailing Program,Too many bugs in the woods.,Negative
+18,Survey,Staff,2022-07-11,8-10,Nature Exploration,I want to come back every year!,Positive
+19,Parent Email,Camper,2022-08-04,16-18,Sailing Program,Everything was well-organized and fun.,Positive
+20,Social Media,Parent,2022-06-06,16-18,Hiking Adventures,Too many bugs in the woods.,Negative
+21,Social Media,Parent,2022-08-25,10-12,Hiking Adventures,My daughter had a great time but didn’t like the bathrooms.,Mixed
+22,Survey,Parent,2022-08-07,10-12,Sailing Program,"The location is nice, but I wish we had more options.",Neutral
+23,Social Media,Camper,2022-06-17,10-12,Sailing Program,I liked some activities but not all.,Neutral
+24,Parent Email,Camper,2022-08-16,13-15,Arts & Crafts,Everything was well-organized and fun.,Positive
+25,Social Media,Staff,2022-08-17,10-12,Nature Exploration,I liked some activities but not all.,Neutral
+26,Social Media,Staff,2022-06-29,8-10,Sailing Program,"The schedule was okay, not too packed.",Neutral
+27,Parent Email,Parent,2022-07-16,10-12,Nature Exploration,Too many bugs in the woods.,Negative
+28,Camper Letter,Staff,2022-06-09,13-15,Sailing Program,Loved the sailing but the hike was exhausting.,Mixed
+29,Social Media,Staff,2022-08-20,8-10,Sailing Program,"Counselors were great, but too many rules.",Mixed
+30,Parent Email,Camper,2022-07-23,13-15,Sailing Program,"The location is nice, but I wish we had more options.",Neutral
+31,Survey,Camper,2022-08-04,10-12,Hiking Adventures,Best summer ever! I learned to canoe and met awesome friends.,Positive
+32,Camper Letter,Camper,2022-08-23,13-15,Hiking Adventures,Everything was well-organized and fun.,Positive
+33,Social Media,Staff,2022-06-26,13-15,Arts & Crafts,I want to come back every year!,Positive
+34,Social Media,Camper,2022-08-07,8-10,Hiking Adventures,The counselors were so kind and supportive.,Positive
+35,Social Media,Parent,2022-08-14,10-12,Nature Exploration,I didn’t enjoy the food and felt homesick.,Negative
+36,Camper Letter,Camper,2022-08-05,16-18,Arts & Crafts,"The schedule was okay, not too packed.",Neutral
+37,Parent Email,Staff,2022-06-20,8-10,Leadership Circle,I want to come back every year!,Positive
+38,Social Media,Camper,2022-07-19,13-15,Sailing Program,The views were amazing but the bugs were awful.,Mixed
+39,Social Media,Staff,2022-08-14,8-10,Nature Exploration,My daughter had a great time but didn’t like the bathrooms.,Mixed
+40,Camper Letter,Parent,2022-08-03,16-18,Arts & Crafts,Loved the sailing but the hike was exhausting.,Mixed
+41,Social Media,Staff,2022-06-19,10-12,Leadership Circle,"Counselors were great, but too many rules.",Mixed
+42,Parent Email,Staff,2022-08-01,13-15,Hiking Adventures,I loved the campfire nights and singing songs with my cabin!,Positive
+43,Camper Letter,Parent,2022-07-23,13-15,Sailing Program,I got bored during free time.,Negative
+44,Survey,Camper,2022-07-27,16-18,Leadership Circle,"It was fine, but I missed home a lot.",Neutral
+45,Parent Email,Staff,2022-06-18,8-10,Nature Exploration,Everything was well-organized and fun.,Positive
+46,Survey,Staff,2022-07-21,16-18,Arts & Crafts,Loved the sailing but the hike was exhausting.,Mixed
+47,Survey,Parent,2022-08-09,8-10,Hiking Adventures,Loved the sailing but the hike was exhausting.,Mixed
+48,Camper Letter,Camper,2022-06-26,13-15,Nature Exploration,Too many bugs in the woods.,Negative
+49,Survey,Camper,2022-06-21,10-12,Sailing Program,I got bored during free time.,Negative
+50,Social Media,Parent,2022-06-25,8-10,Hiking Adventures,Loved the sailing but the hike was exhausting.,Mixed
+51,Camper Letter,Camper,2022-08-08,8-10,Leadership Circle,"The schedule was okay, not too packed.",Neutral
+52,Parent Email,Staff,2022-08-25,10-12,Arts & Crafts,"The location is nice, but I wish we had more options.",Neutral
+53,Survey,Staff,2022-07-08,13-15,Sailing Program,Loved the sailing but the hike was exhausting.,Mixed
+54,Parent Email,Staff,2022-06-04,8-10,Hiking Adventures,Best summer ever! I learned to canoe and met awesome friends.,Positive
+55,Survey,Camper,2022-06-19,16-18,Leadership Circle,"The schedule was okay, not too packed.",Neutral
+56,Survey,Staff,2022-07-08,16-18,Arts & Crafts,It rained a lot and we stayed inside most of the time.,Negative
+57,Parent Email,Staff,2022-08-18,10-12,Nature Exploration,I want to come back every year!,Positive
+58,Camper Letter,Parent,2022-08-11,13-15,Sailing Program,"Counselors were great, but too many rules.",Mixed
+59,Social Media,Staff,2022-07-03,10-12,Nature Exploration,I loved the campfire nights and singing songs with my cabin!,Positive
+60,Camper Letter,Staff,2022-06-07,16-18,Hiking Adventures,Best summer ever! I learned to canoe and met awesome friends.,Positive
